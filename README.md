@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm a Python (Django) developer, mainly creating websites.
+
+My main focus is to get as good as possible and just create and maintain a great looking websites.
+
+Some of my projects are: 
+
+https://rkarhitekti.com/ 
+<div>https://eldenlore.herokuapp.com/ <a href="https://github.com/Anivaries/erlore">With it's own repository</a></div>
+<div>https://anivaries-ecommerce.herokuapp.com/ <a href="https://github.com/Anivaries/ecommerce">With it's own repository</a></div>
+
 
 <!--
 **Anivaries/Anivaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
