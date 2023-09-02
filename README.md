@@ -1,7 +1,6 @@
 <h2>Hi there 👋
-I'm a Python (Django) developer, mainly creating websites.</h2>
+I'm a Python developer, creating webapps and various scripts.</h2>
 
-My main focus is to get as good as possible and just create and maintain a great looking websites.
 
 <b>Some of my projects are:</b> 
 
@@ -10,7 +9,7 @@ https://rkarhitekti.com/
 <div>https://anivaries-ecommerce.herokuapp.com/ With it's own <a href="https://github.com/Anivaries/ecommerce">repository</a></div>
 <br>
 <br>
-<p1></p1>Mostly working with Python, HTML/CSS/JS, PostgreSQL, AWS, Heroku/DigitalOcean</p1>
+<p1></p1>Working with Python, with experience in HTML/CSS/JS, SQL, AWS, DigitalOcean/Heroku</p1>
 <!--
 **Anivaries/Anivaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
